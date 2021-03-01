@@ -14,11 +14,13 @@ If the "file" field is included in [General fields](../setup/generalfields.md), 
 
 JabRef offers the following directory settings:
 
-1. **Options → Preferences → Linked files**, item _Main file directory._
+1. **Options → Preferences → Linked files**, item _Main file directory_.
 
    ![Main file directory](../.gitbook/assets/preferences-linkedfiles-5.2.png)
 
-2. **File → Library properties**, items _General file directory,_ and _User-specific file directory_.![Override default file directories](../.gitbook/assets/libraryproperties-overridedefaultfiledirectories%20%282%29%20%283%29%20%282%29%20%281%29.png)
+2. **Library → Library properties**, items _General file directory,_ and _User-specific file directory_.
+   
+   ![Override default file directories](../.gitbook/assets/libraryproperties-overridedefaultfiledirectories%20%282%29%20%283%29%20%282%29%20%281%29.png)
 
 One of these settings is required. Mostly the "Main file directory" is enough.
 
